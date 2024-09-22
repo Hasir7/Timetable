@@ -1,0 +1,5 @@
+com/example/timetable/Timetable.class
+com/example/timetable/TimetableService.class
+com/example/timetable/TimetableRepository.class
+com/example/timetable/TimetableApplication.class
+com/example/timetable/TimetableController.class
